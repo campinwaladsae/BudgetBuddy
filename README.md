@@ -1,4 +1,4 @@
-# jotting
+# BudgetBuddy
 Final Project PSO (B)
 
 
